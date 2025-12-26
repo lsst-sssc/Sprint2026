@@ -1,2 +1,2 @@
-# 2024 Sprint Website
-SSSC readiness sprint website
+# 2026 Sprint Website
+First LSST Solar System Data Sprint website
